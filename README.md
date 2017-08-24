@@ -1,7 +1,6 @@
 # C-Project
 
-    This is a simple low level project created in C. It contains some basic functionalities:
-    
+    This is my first year project, created by using C and C++. It contains some basic functionalities that are listed below:
 
 # Alarm
 # Calendar
