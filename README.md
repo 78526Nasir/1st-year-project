@@ -1,10 +1,36 @@
-# C-Project
+# 1st Year Project in C and C++
 
 > **This is my first year project, created by using C and C++. It contains some basic functionalities that are listed below:**
 
-# Alarm
-# Calendar
-# Captcha
-# Clock
-# Stopwatch
+* Alarm
+* Calendar
+* Captcha
+* Clock
+* Stopwatch
+
+<hr>
+
+## Main Menu
+![Main_menu](https://github.com/78526Nasir/C-Project/blob/master/images/main%20menu.png)
+
+## Alarm
+![Alarm](https://github.com/78526Nasir/C-Project/blob/master/images/alarm.png)
+
+## Calendar
+![calendar](https://github.com/78526Nasir/C-Project/blob/master/images/calendar.png)
+
+## Captcha
+![captcha](https://github.com/78526Nasir/C-Project/blob/master/images/Captcha.png)
+
+## Clock
+![Clock](https://github.com/78526Nasir/C-Project/blob/master/images/clock.png)
+
+## Stopwatch
+![stopwatch](https://github.com/78526Nasir/C-Project/blob/master/images/stopwatch.png)
+
+
+# Copyright and License
+This project is under <a href="https://github.com/78526Nasir/1st-year-project/blob/master/LICENSE">MIT</a>
+
+<a href="https://github.com/78526Nasir">Nasir Islam Sujan </a> &copy; 2015
 
