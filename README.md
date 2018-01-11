@@ -30,7 +30,7 @@
 
 
 # Copyright and License
-This project is under <a href="https://github.com/78526Nasir/1st-year-project/blob/master/LICENSE">MIT</a>
+This project is LICENCE under [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/78526Nasir/1st-year-project/blob/master/LICENSE)
 
 <a href="https://github.com/78526Nasir">Nasir Islam Sujan </a> &copy; 2015
 
